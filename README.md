@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center"><img src ="https://github-readme-streak-stats.herokuapp.com?user=TsekovDavid&theme=darcula&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF00"></p>
+
+
+[![codewars](https://www.codewars.com/users/Tsekov_David/badges/small)](https://www.codewars.com/users/Tsekov_David/badges/small) 
+
 
 <!--
 **TsekovDavid/TsekovDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
